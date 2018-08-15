@@ -1,6 +1,8 @@
 # Symbolic ML techniques: decision trees and random forests
 # Program: Soil Class
-# Files: dt_full.R, dt_full_log.R, rf_full.R and rf_full_log.R
+# Source files: generate_data.R, dt_full.R and rf_full.R
+# Inputs: data.RData
+# Outputs: results_dt_full.R for dt_full.R and results_rf_full.R for rf_full.R
 # Developer: Lucas Orbolato Carvalho
 # Manuscript: Soil classification from cone penetration test data using symbolic machine learning techniques up to five-dimensional feature spaces
 # Manuscript authors: Lucas Orbolato Carvalho (a), Dimas Betioli Ribeiro (b)
